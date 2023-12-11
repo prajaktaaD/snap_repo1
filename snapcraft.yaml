@@ -1,5 +1,5 @@
 
-name: snapcraft
+name: test-offlineimap-prajaktadeo
 base: core22
 summary: easily create snaps
 description: |
